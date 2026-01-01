@@ -27,7 +27,7 @@ UI dibuat sebagai desain akhir yang sudah dikasih warna dan desain yang lainnya 
 Berikut adalah link untuk UX-nya: https://youtu.be/ZAXhDvBjJiA?si=6F80Z4OvfDoq68NB.
 
 ### Hasil akhir aplikasi android studio
-![Gambar 1](Splash.png).
+####### ![Gambar 1](Splash.png).
 
 Ini awal ketika aplikasi dibuka. berguna untuk loading aplikasi ketika dibuka.
 
