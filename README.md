@@ -1,4 +1,4 @@
-# Assalamu'alaikum WR.WB 
+# Assalamu'alaikum wr.wb
 # Perkenalkan:
 # Nama: Bagus Aditya Hermawan
 # Nim: 312410382
