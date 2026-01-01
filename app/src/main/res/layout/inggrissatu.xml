@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F2FFD8"
+    tools:context=".SatuActivity">
+
+
+    <View
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="#B7FF2C" />
+
+    <ImageView
+        android:id="@+id/iconHome"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="16dp"
+        android:layout_below="@id/header"
+        android:src="@drawable/ic_home"
+        android:contentDescription="@string/home" />
+
+    <TextView
+        android:id="@+id/tvBahasa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iconHome"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="22dp"
+        android:text="@string/indonesia"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#333" />
+
+    <TextView
+        android:id="@+id/tvNomor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvBahasa"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="6dp"
+        android:text="@string/_2_3"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#333" />
+
+    <Button
+        android:id="@+id/btnSoal"
+        android:layout_width="260dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/tvNomor"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:background="#B7FF2C"
+        android:elevation="4dp"
+        android:text="@string/eat"
+        android:textColor="#0F1010"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnA"
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="45dp"
+        android:layout_marginBottom="130dp"
+        android:background="#A6FF00"
+        android:elevation="4dp"
+        android:text="@string/makan"
+        android:textColor="#0F1010"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnB"
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="45dp"
+        android:layout_marginBottom="130dp"
+        android:background="#52F20F"
+        android:elevation="4dp"
+        android:text="@string/minum"
+        android:textColor="#0F1010"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
