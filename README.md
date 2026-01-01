@@ -1,8 +1,8 @@
-### Nama: Bagus Aditya Hermawan
-### Nim: 312410382
-### Kelas: TI.24.A.3
-### Mata Kuliah: Pemrograman Mobile 1
-### Projek Android: Aplikasi Quiz Bahasa
+# Nama: Bagus Aditya Hermawan
+# Nim: 312410382
+# Kelas: TI.24.A.3
+# Mata Kuliah: Pemrograman Mobile 1
+# Projek Android: Aplikasi Quiz Bahasa
 
 ### Berikut adalah alur langkah dalam pembuatan program aplikasi quiz bahasa:
 1. Membuat Storyboard
