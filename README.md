@@ -1,3 +1,5 @@
+# Assalamu'alaikum WR.WB 
+# Perkenalkan:
 # Nama: Bagus Aditya Hermawan
 # Nim: 312410382
 # Kelas: TI.24.A.3
@@ -34,3 +36,31 @@ Ini awal ketika aplikasi dibuka. berguna untuk loading aplikasi ketika dibuka.
 ###### ![Gambar 1](Lokasi.png).
 
 Fitur lokasi dengan notif salam secara real time, ucapan selamat datang, dan bendera sesuai dengan lokasi pengguna.
+
+###### ![Gambar 1](Login.png).
+
+Dibagian ini pengguna terlebih dahulu memilih. Kalau belum memiliki akun maka pengguna memilih Create Account dan apabila sudah memiliki tinggal memilih Sign In.
+
+###### ![Gambar 1](Signin.png).
+
+User diminta untuk menginput email dan password lalu klik tombol continue. tombol back untuk kembali ke halaman login.
+
+###### ![Gambar 1](Createaccount.png).
+
+Sama seperti Sign In. yang membedakannya hanya pada input nama.
+
+###### ![Gambar 1](Dasboard.png).
+
+Setelah login, pengguna akan memasuki bagian halaman utama terdapat Quiz bahasa dan pengaturan.
+
+###### ![Gambar 1](Quiz1.png).
+###### ![Gambar 1](Quiz2.png).
+###### ![Gambar 1](Quiz3.png).
+
+Pada bagian Quiz, pengguna dapat menjawab soal pertanyaan dengan benar. apabila semua jawban benar maka akan muncul halaman berhasil dan dapat kembali ke halaman utama.
+
+###### ![Gambar 1](Berhasil.png).
+
+###### ![Gambar 1](Setting.png).
+
+Pada bagian setting berisi foto yang dapat diisi dengan foto yang diingikan. terdapat nama pengguna ketika regist di awal. pengguna juga dapat menggunakan tombol logout untuk keluda dari akun aplikasi ini.
