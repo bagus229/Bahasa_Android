@@ -29,6 +29,10 @@ UI dibuat sebagai desain akhir yang sudah dikasih warna dan desain yang lainnya 
 Berikut adalah link untuk UX-nya: https://youtu.be/ZAXhDvBjJiA?si=6F80Z4OvfDoq68NB.
 
 ### Hasil akhir aplikasi android studio
+###### ![Gambar 1](launcher.png).
+
+Ini adalah tampilan ic_launcher dari aplikasi yang telah saya buat di dalam HP android.
+
 ###### ![Gambar 1](Splash.png).
 
 Ini awal ketika aplikasi dibuka. berguna untuk loading aplikasi ketika dibuka.
