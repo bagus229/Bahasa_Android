@@ -61,6 +61,6 @@ Pada bagian Quiz, pengguna dapat menjawab soal pertanyaan dengan benar. apabila 
 
 ###### ![Gambar 1](Berhasil.png).
 
-###### ![Gambar 1](Setting.png).
+###### ![Gambar 1](Settiing.png).
 
 Pada bagian setting berisi foto yang dapat diisi dengan foto yang diingikan. terdapat nama pengguna ketika regist di awal. pengguna juga dapat menggunakan tombol logout untuk keluda dari akun aplikasi ini.
