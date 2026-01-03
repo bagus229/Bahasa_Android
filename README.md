@@ -29,7 +29,7 @@ UI dibuat sebagai desain akhir yang sudah dikasih warna dan desain yang lainnya 
 Berikut adalah link untuk UX-nya: https://youtu.be/ZAXhDvBjJiA?si=6F80Z4OvfDoq68NB.
 
 5. Click Up
-### ![Gambar 1](Clikup.png).
+### ![Gambar 1](Clickup.png).
 
 Clik Up disini tempat saya memperbarui/update hal yang saya lakukan dari pengerjaan langkah awal sampai langkah akhir projek ini
 
