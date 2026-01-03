@@ -28,6 +28,11 @@ Mockup ini memperlihatkan gambaran tampilan aplikasi pembelajaran bahasa yang di
 UI dibuat sebagai desain akhir yang sudah dikasih warna dan desain yang lainnya agar user ketika menggunakann aplikasi tersebut merasa nyaman dan dari desain ini juga supaya menarik banyak pengguna agar memakai aplikasi ini.
 Berikut adalah link untuk UX-nya: https://youtu.be/ZAXhDvBjJiA?si=6F80Z4OvfDoq68NB.
 
+5. Click Up
+### ![Gambar 1](Clikup.png).
+
+Clik Up disini tempat saya memperbarui/update hal yang saya lakukan dari pengerjaan langkah awal sampai langkah akhir projek ini
+
 ### Hasil akhir aplikasi android studio
 ###### ![Gambar 1](launcher.png).
 
