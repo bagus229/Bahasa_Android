@@ -58,7 +58,7 @@ User diminta untuk menginput email dan password lalu klik tombol continue. tombo
 
 Sama seperti Sign In. yang membedakannya hanya pada input nama.
 
-###### ![Gambar 1](Dasboard.png).
+###### ![Gambar 1](Dashboard.png).
 
 Setelah login, pengguna akan memasuki bagian halaman utama terdapat Quiz bahasa dan pengaturan.
 
