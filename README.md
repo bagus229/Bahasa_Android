@@ -67,10 +67,10 @@ Setelah login, pengguna akan memasuki bagian halaman utama terdapat Quiz bahasa 
 ###### ![Gambar 1](Quiz3.png).
 
 Pada bagian Quiz, pengguna dapat menjawab soal pertanyaan dengan benar. apabila semua jawban benar maka akan muncul halaman berhasil dan dapat kembali ke halaman utama.
-Berikut adalah link youtube video ketika program di jalankan di HP android: https://youtu.be/OAnwdWsOYro?si=UI3kuf8jf4tGTu_u.
 
 ###### ![Gambar 1](Berhasil.png).
 
 ###### ![Gambar 1](Settiing.png).
 
 Pada bagian setting berisi foto yang dapat diisi dengan foto yang diingikan. terdapat nama pengguna ketika regist di awal. pengguna juga dapat menggunakan tombol logout untuk keluar dari akun aplikasi ini.
+Berikut adalah link youtube video ketika program di jalankan di HP android: https://youtu.be/OAnwdWsOYro?si=UI3kuf8jf4tGTu_u.
