@@ -74,3 +74,4 @@ Pada bagian Quiz, pengguna dapat menjawab soal pertanyaan dengan benar. apabila 
 
 Pada bagian setting berisi foto yang dapat diisi dengan foto yang diingikan. terdapat nama pengguna ketika regist di awal. pengguna juga dapat menggunakan tombol logout untuk keluar dari akun aplikasi ini.
 Berikut adalah link youtube video ketika program di jalankan di HP android: https://youtu.be/OAnwdWsOYro?si=UI3kuf8jf4tGTu_u.
+# Sekian dan Terimakasih.
