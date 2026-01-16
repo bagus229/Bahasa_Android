@@ -31,7 +31,7 @@ Berikut adalah link untuk UX-nya: https://youtu.be/ZAXhDvBjJiA?si=6F80Z4OvfDoq68
 5. Click Up
 ### ![Gambar 1](Clickup.png).
 
-Clik Up disini tempat saya memperbarui/update hal yang saya lakukan dari pengerjaan langkah awal sampai langkah akhir projek ini. link Clickup: https://app.clickup.com/90181799349/v/s/90187467033.
+Clik Up disini tempat saya memperbarui/update hal yang saya lakukan dari pengerjaan langkah awal sampai langkah akhir projek ini. link Clickup: https://sharing.clickup.com/90181799349/l/h/4-90187467033-1/f569d23c3213865
 
 ### Hasil akhir aplikasi android studio
 ###### ![Gambar 1](launcher.png).
